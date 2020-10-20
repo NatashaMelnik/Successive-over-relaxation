@@ -1,0 +1,10 @@
+D:\un\Чисельні методи\лр2\lr2_successiveOverRelaxation\bin\Debug\lr2_successiveOverRelaxation.exe.config
+D:\un\Чисельні методи\лр2\lr2_successiveOverRelaxation\bin\Debug\lr2_successiveOverRelaxation.exe
+D:\un\Чисельні методи\лр2\lr2_successiveOverRelaxation\bin\Debug\lr2_successiveOverRelaxation.pdb
+D:\un\Чисельні методи\лр2\lr2_successiveOverRelaxation\obj\Debug\lr2_successiveOverRelaxation.csprojAssemblyReference.cache
+D:\un\Чисельні методи\лр2\lr2_successiveOverRelaxation\obj\Debug\lr2_successiveOverRelaxation.Form1.resources
+D:\un\Чисельні методи\лр2\lr2_successiveOverRelaxation\obj\Debug\lr2_successiveOverRelaxation.Properties.Resources.resources
+D:\un\Чисельні методи\лр2\lr2_successiveOverRelaxation\obj\Debug\lr2_successiveOverRelaxation.csproj.GenerateResource.cache
+D:\un\Чисельні методи\лр2\lr2_successiveOverRelaxation\obj\Debug\lr2_successiveOverRelaxation.csproj.CoreCompileInputs.cache
+D:\un\Чисельні методи\лр2\lr2_successiveOverRelaxation\obj\Debug\lr2_successiveOverRelaxation.exe
+D:\un\Чисельні методи\лр2\lr2_successiveOverRelaxation\obj\Debug\lr2_successiveOverRelaxation.pdb
